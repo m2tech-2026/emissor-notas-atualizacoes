@@ -1,6 +1,6 @@
 {
-  "versao": "1.8.1",
-  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.1.exe",
-  "sha256": "faefc16a081e4863c4c4db2b9f82ce4c2d3244dc11c4b409634c3fa8ea03011d",
-  "notas": "Atualização automática ativada."
+  "versao": "1.8.2",
+  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.2.exe",
+  "sha256": "78993f20d4ff1d697b4477c59b8288846c38330e37d4f63a1f89e79485e79727",
+  "notas": "Instalador mais compatível com o Windows Defender."
 }
