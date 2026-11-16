@@ -1,6 +1,6 @@
 {
-  "versao": "1.8.6",
-  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.6.exe",
-  "sha256": "590610391205eb18f06cce59d9131e35f9d05e27f625282633e177c6b3b86c42",
-  "notas": "Leitura da mensagem melhorada: endereço, telefone e IE do tomador não vão mais para a descrição do serviço."
+  "versao": "1.8.7",
+  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.7.exe",
+  "sha256": "c757eb8e39fbcaf86f831706ac7f45e84e1b8e1e2c15bcbd137077b182755110",
+  "notas": "Verificar atualizações agora mostra o motivo quando não consegue consultar."
 }
