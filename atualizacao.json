@@ -1,6 +1,6 @@
 {
-  "versao": "1.8.4",
-  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.4.exe",
-  "sha256": "c22f9229db75b2bfcad201116b2abbbec505884fe11c808fae1640dc55559bdc",
-  "notas": "Busca de CNPJ mais rápida (consulta as 3 bases ao mesmo tempo)."
+  "versao": "1.8.5",
+  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.5.exe",
+  "sha256": "b04f99cdc0497a7d6659d3ea8956c79614bc43edeae7afaaf1466ef13ebfa2f9",
+  "notas": "IBS/CBS também para MEI: importa NBS, CST e cClassTrib de uma nota de exemplo."
 }
