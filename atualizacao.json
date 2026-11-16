@@ -1,6 +1,6 @@
 {
-  "versao": "1.8.8",
-  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.8.exe",
-  "sha256": "94fa991875e5bcf7e4e9609b7fd6dd8eaec5d39071b7fe19c4c6ba3e77acfd79",
-  "notas": "Informações complementares por nota (chave PIX, recebimento, observações), lidas da mensagem e editáveis na tabela."
+  "versao": "1.8.9",
+  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.9.exe",
+  "sha256": "69d184be9a32414cbb0cb632fb702edc9f4b7f986fa13c44086b41de2c95aff4",
+  "notas": "PIS/COFINS no cadastro do prestador ME/EPP: CST, alíquotas e retenção na fonte."
 }
