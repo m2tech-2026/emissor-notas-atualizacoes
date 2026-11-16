@@ -1,6 +1,6 @@
 {
-  "versao": "1.8.5",
-  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.5.exe",
-  "sha256": "b04f99cdc0497a7d6659d3ea8956c79614bc43edeae7afaaf1466ef13ebfa2f9",
-  "notas": "IBS/CBS também para MEI: importa NBS, CST e cClassTrib de uma nota de exemplo."
+  "versao": "1.8.6",
+  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.6.exe",
+  "sha256": "590610391205eb18f06cce59d9131e35f9d05e27f625282633e177c6b3b86c42",
+  "notas": "Leitura da mensagem melhorada: endereço, telefone e IE do tomador não vão mais para a descrição do serviço."
 }
