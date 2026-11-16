@@ -1,6 +1,6 @@
 {
-  "versao": "1.8.3",
-  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.3.exe",
-  "sha256": "1cbd5009e2a51f67c49b58e44f2a6e2a134d3a86440f41c32965e5a011db6e55",
-  "notas": "Ativação da licença mais fácil (aceita a mensagem inteira colada)."
+  "versao": "1.8.4",
+  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.4.exe",
+  "sha256": "c22f9229db75b2bfcad201116b2abbbec505884fe11c808fae1640dc55559bdc",
+  "notas": "Busca de CNPJ mais rápida (consulta as 3 bases ao mesmo tempo)."
 }
