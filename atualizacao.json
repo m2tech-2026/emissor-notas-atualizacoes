@@ -1,6 +1,6 @@
 {
-  "versao": "1.8.7",
-  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.7.exe",
-  "sha256": "c757eb8e39fbcaf86f831706ac7f45e84e1b8e1e2c15bcbd137077b182755110",
-  "notas": "Verificar atualizações agora mostra o motivo quando não consegue consultar."
+  "versao": "1.8.8",
+  "url": "https://raw.githubusercontent.com/m2tech-2026/emissor-notas-atualizacoes/main/instaladores/EmissorNotasRapido-Setup-1.8.8.exe",
+  "sha256": "94fa991875e5bcf7e4e9609b7fd6dd8eaec5d39071b7fe19c4c6ba3e77acfd79",
+  "notas": "Informações complementares por nota (chave PIX, recebimento, observações), lidas da mensagem e editáveis na tabela."
 }
